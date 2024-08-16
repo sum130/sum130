@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=sum130&fontSize=200" )
 
+![header](https://capsule-render.vercel.app/api?text=Welcome_to_sum130&animation=fadeIn)
 ![sum130's GitHub stats](https://github-readme-stats.vercel.app/api?username=sum130&show_icons=true&theme=blue_navy)
 
 
