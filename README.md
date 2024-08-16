@@ -1,12 +1,12 @@
 ## Hi there 👋
+![sum130's GitHub stats](https://github-readme-stats.vercel.app/api?username=sum130&show_icons=true&theme=radical)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" )
+
 
 <!--
 **sum130/sum130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" )
-
-#![sum130's GitHub stats](https://github-readme-stats.vercel.app/api?username=sum130&show_icons=true&theme=radical)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
