@@ -1,5 +1,5 @@
 
-![header](https://capsule-render.vercel.app/api?text=Welcome_to_sum130&animation=fadeIn&type=waving&color=auto)
+![header](https://capsule-render.vercel.app/api?text=Welcome_to_sum130&animation=fadeIn&type=waving&customColorList=0,2,3)
 ![sum130's GitHub stats](https://github-readme-stats.vercel.app/api?username=sum130&show_icons=true&theme=blue_navy)
 
 
