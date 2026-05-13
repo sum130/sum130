@@ -1,7 +1,13 @@
 
-![header](https://capsule-render.vercel.app/api?text=Welcome_to_sum130&animation=fadeIn&type=waving&customColorList=0,2,3&fontcolor=FFFFFF)
-![sum130's GitHub stats](https://github-readme-stats.vercel.app/api?username=sum130&show_icons=true&theme=blue_navy)
-
+![header](https://capsule-render.vercel.app/api?text=Welcome_to_sum130&animation=fadeIn&type=waving&color=0:0093E9,100:80D0C7&fontcolor=FFFFFF)
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sum130&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/sum130?pet-id=839136903662018416"
+    width="820"
+    height="120"
+  />
+</a>
+  
 
 <!--
 **sum130/sum130** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
