@@ -3,8 +3,8 @@
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sum130&utm_content=line">
   <img
     src="https://render.gitanimals.org/lines/sum130?pet-id=839136903662018416"
-    width="820"
-    height="150"
+    width="850"
+    height="130"
   />
 </a>
   
